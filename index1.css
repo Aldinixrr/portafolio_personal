@@ -1,0 +1,51 @@
+header{
+    display:flex;
+    align-items: center;
+    background-color:coral;
+    color: rgb(53, 53, 94);
+    justify-content:space-between
+    
+}
+.nav-link{
+    justify-content:space-between
+    padding:last baseline
+}
+.imagen{
+    width: 270px;
+    padding: 50px;
+    padding: left 40px;
+}
+#presentación{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: rgb(46, 37, 88);
+    color: aliceblue;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 60px;
+    margin: 10px;
+}
+p{
+    text-align: justify;
+    size: 200px;
+    padding: 20px;
+    line-height: 2.0;
+}
+.fondo alda{
+    width: 900px;
+    margin-block-end: 40px;
+    border-radius: 15px;
+}
+
+.redes sociales{
+color: gold;
+text-align: justify;
+}
+
+    
+.redes{
+    background-color: gold;
+    margin-block-end: 15px;
+    
+}
